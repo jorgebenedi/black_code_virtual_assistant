@@ -3,33 +3,24 @@
 ### Description
 ```
 =========================================================================================================
-            Hello everyone, I’ve created a tool to extract user data from Instagram.
+            A powerful voice-controlled assistant that responds to your commands
 =========================================================================================================
-If anyone knows how to guide the tool towards future improvements, feel free to reach out to me!
+BLACK CODE listens to your voice and performs various automated tasks with audio feedback
 =========================================================================================================
 
-We will begin by explaining how to use the tool in a guided and simple way.
-As soon as you start, you will find a menu that asks if you want to:
+Features:
+- Voice command recognition in English
+- Custom audio responses for different actions
+- Web browser automation (YouTube, Google, etc.)
+- Script execution capability
+- Email sending functionality
+- System notifications
 
-[1]Extract user information                                                   [2]Second passenger data intelligence
-      |                                                                                      | 
-      |                                                                                      |
-      | --> Extract all the possible information that we will later use in the second option.|                                                      
-                                                                                             |
-                                                                                             |
-Once the data from a profile is extracted, we will apply the data intelligence functions <-- |
-which help identify the most recent people who have followed the user and common followers.
-Subsequently, we can perform a local scan to find out which users the victim interacts with the most, quite accurately.
-
-Recommendations
-----Do not use your personal account, there is a risk of permanent account closure.
-----Use accounts with which you have interacted with other users,
-this makes Instagram less likely to suspect you during scans.
-----Use saved sessions to avoid multiple logins,
-this will help reduce the risk of being banned.
-----Do not scan multiple users in a short period of time if Instagram is warning you,
-take some time between scans (several days).
-----Change accounts used for scanning in credentials.txt.
+Recommendations:
+----Customize all paths in the script before use (audio, programs, scripts)
+----Use a quality microphone for better recognition
+----For email functionality, configure your SMTP credentials properly
+----Run the script in a quiet environment for best results
 ```
 ### Example of data extraction
 ![Captura de pantalla 2024-07-15 2](https://github.com/user-attachments/assets/d17a80d5-1a6a-480a-b69c-f4572bb47b9a)
@@ -37,7 +28,11 @@ take some time between scans (several days).
 ### Technologies
 ```
 python3
-instaloader
+Python 3
+SpeechRecognition
+PyGame
+NotifyPy
+SMTP (for email functionality)
 ```
 ### Installation Guide
 ```
