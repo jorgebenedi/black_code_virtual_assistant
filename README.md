@@ -22,9 +22,6 @@ Recommendations:
 ----For email functionality, configure your SMTP credentials properly
 ----Run the script in a quiet environment for best results
 ```
-### Example of data extraction
-![Captura de pantalla 2024-07-15 2](https://github.com/user-attachments/assets/d17a80d5-1a6a-480a-b69c-f4572bb47b9a)
-
 ### Technologies
 ```
 python3
@@ -36,13 +33,14 @@ SMTP (for email functionality)
 ```
 ### Installation Guide
 ```
-apt update && apt install git
-apt install python3
-git clone https://github.com/jorgebenedi/project_second_passenger.git
-cd project_second_passenger
-apt install pip
-pip install -r requirements.txt
-python3 main.py
+apt update && apt install python3 python3-pip git
+pip install speechrecognition pygame notifypy
+Configure paths in the script:
+   - audio_path (for your audio files)
+   - imou_path (for external programs)
+   - ruta_scripts (for your script files)
+   - Email credentials in the sendemail function
+python black_code.py
 ```
 
 
