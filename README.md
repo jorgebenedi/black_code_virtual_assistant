@@ -21,6 +21,7 @@ Recommendations:
 ----Use a quality microphone for better recognition
 ----For email functionality, configure your SMTP credentials properly
 ----Run the script in a quiet environment for best results
+----It is recommended to use it as an .exe to perform tasks via voice commands while doing any daily tasks, using the application: auto-py-to-exe
 ```
 ### Technologies
 ```
