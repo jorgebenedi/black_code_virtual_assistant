@@ -1,5 +1,5 @@
 # Second Passenger
-![image](https://github.com/user-attachments/assets/dfb1409a-c27d-4555-905f-109f46f92c1f)
+![black_final (2)](https://github.com/user-attachments/assets/e93babc9-4d0d-41a7-a814-712e18a7245f)
 ### Description
 ```
 =========================================================================================================
