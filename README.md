@@ -1,5 +1,5 @@
 # Second Passenger
-![black_final (2)](https://github.com/user-attachments/assets/e93babc9-4d0d-41a7-a814-712e18a7245f)
+![black_final](https://github.com/user-attachments/assets/9862f374-995e-481b-9e24-db68a2df0ef9)
 ### Description
 ```
 =========================================================================================================
@@ -25,7 +25,6 @@ Recommendations:
 ### Technologies
 ```
 python3
-Python 3
 SpeechRecognition
 PyGame
 NotifyPy
