@@ -25,7 +25,7 @@ def show_notification():
     notification = Notify()
     notification.title = "BLACK CODE"
     notification.message = "I’m listening..."
-    notification.icon = r"C:\Users\jorge\Desktop\Accesos\Photoshop edit\jpg\black code\black_final (2).jpg"
+    notification.icon = r"PATH\TO\YOUR\ICON" # Personalize
     notification.send()
 
 def process_commands(text):
